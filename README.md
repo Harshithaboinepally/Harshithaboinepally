@@ -26,7 +26,7 @@ My work focuses on transforming raw, high-volume data into reliable datasets tha
 - Implemented probabilistic data structures (Bloom Filters, Flajolet–Martin, DGIM, Reservoir Sampling)  
 - Evaluated accuracy, throughput, and storage trade-offs for scalable analytics  
 
-🔗 Repo: https://github.com/andreahcruz/228_Project
+🔗 Repo:  https://github.com/harshithaboinepally/228_Project
 
 ---
 

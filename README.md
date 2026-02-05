@@ -1,7 +1,7 @@
 # Hi, I'm Harshitha 👋
 
 🎓 M.S. student in **Applied Data Intelligence**  
-💻 Aspiring **Data Engineer / Analytics Engineer**  
+💻 Aspiring **Data Engineer** 
 📍 San Jose, CA  
 
 I build **scalable data pipelines**, **real-time streaming systems**, and **analytics-ready data platforms**.  
